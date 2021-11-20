@@ -1,7 +1,9 @@
 # imbusy
 
-Schedule events (mainly on-call shifts) onto a shared google calendar so people
-stop asking me about it :)
+[![Run tests](https://github.com/crgwilson/imbusy/actions/workflows/tests.yml/badge.svg)](https://github.com/crgwilson/imbusy/actions/workflows/tests.yml)
+
+Schedule events (mainly on-call shifts) onto a shared google calendar so my family
+will stop asking me about it :)
 
 ## Pre-requisites
 
